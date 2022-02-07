@@ -1,0 +1,1 @@
+[{"nombre":"Pelota","precio":500,"id":1},{"nombre":"zapatilla","precio":500,"id":2},{"nombre":"remera","precio":500,"id":3}]
